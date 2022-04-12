@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OscarArroyoVega
-- 👀 I’m interested in geodata and tourism
+- 👀 I’m interested in geodata and sustainable tourism
 - 🌱 I’m currently learning qgis and phyton
 - 💞️ I’m looking to collaborate on gegraphic patterns for future sustainable tourism 
 - 📫 Reach me at arroscar@gmail.com
