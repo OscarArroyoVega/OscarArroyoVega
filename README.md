@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OscarArroyoVega
-- 👀 I’m interested in Ml, data and Gis.
-- 🌱 I’m currently searching local data and trying to reveal invisible realities
+- 👋 ME: @OscarArroyoVega
+- 👀 Interested in: New Lifestyles when merging Data and Ml apps with sptatial and territorial realities
+- 🌱 Background in: large scale projects from kick off to reality
 - 📫 Reach me at arroscar@gmail.com
 
 <!---
