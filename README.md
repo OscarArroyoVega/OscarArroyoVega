@@ -1,7 +1,7 @@
 - 👋 ME: @OscarArroyoVega
 - 👀 Interested in: Lifestyles when merging AI applications with sptatial interactions and territorial realities
 - 🌱 Background in: large scale projects from kick off to reality
-- 📫 Reach me at arroscar@gmail.com
+- 📫 Reach me at ******
 
 <!---
 OscarArroyoVega/OscarArroyoVega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
