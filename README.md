@@ -1,5 +1,5 @@
 - 👋 ME: @OscarArroyoVega
-- 👀 Interested in: Lifestyles when merging AI apps with sptatial and territorial realities
+- 👀 Interested in: Lifestyles when merging AI applications with sptatial interactions and territorial realities
 - 🌱 Background in: large scale projects from kick off to reality
 - 📫 Reach me at arroscar@gmail.com
 
