@@ -1,6 +1,8 @@
 - 👋 ME: @OscarArroyoVega
 - 👀 Interested in: Lifestyles when merging AI applications with spatial interactions and territorial realities
-- 🌱 Background in: large scale projects from kick off to reality
+- 🌱 Background in: large scale projects from draft to reality
+- 🧐 Always learning... now into Data Science, LLMs, RAGs, Graphs, Timeseries and GeoPandas
+- 👽 Natural system designer
 - 📫 Reach me at ******
 
 <!---
