@@ -3,7 +3,7 @@
 - 🌱 Background in: large scale projects from draft to reality
 - 🧐 Always learning... now into Data Science, LLMs, RAGs, Graphs, Timeseries and GeoPandas
 - 👽 Natural system designer
-- 🎇 entrepreneur
+- 🎇 collaborative entrepreneur
 - 📫 Reach me at ******
 
 <!---
