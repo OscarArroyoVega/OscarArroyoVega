@@ -1,9 +1,9 @@
 - 👋 ME: @OscarArroyoVega
 - 👀 Interested in: Lifestyles emerging when ML applications met spatial and territorial realities
 - 🌱 Background in: sustainable large scale projects from draft to real project (CostaViva smart_town, Nivalis solar_smart_city)
-- 🧐 Always learning, always hungry... now into LLM applications and figuring out how to use them to interact with territory and urban spaces
+- 🧐 Always learning, always hungry... now figuring out how to extract features using LLMS + Location + Timestamps to reveal underling territorial dynamics
 - 🪐 When I find something about Graphs, Timeseries or Geodata, my time-space obsesion push me to read it, it is a kind of gravity force
-- 👽 Natural System Designer
+- 👽 Natural System Designer arrows, squares, cercles, boxes, tags, relations, questions, and more arrows! 
 - ✨ I am able to transform complex concepts in order to make them understandable by a wide range of audiences  
 - 🎇 collaborative entrepreneur
 - 🫶 courage, time and love
