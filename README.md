@@ -6,6 +6,7 @@
 - 👽 Natural System Designer arrows, squares, cercles, boxes, tags, relations, questions, and more arrows! 
 - ✨ I am able to transform complex concepts in order to make them understandable by a wide range of audiences  
 - 🎇 collaborative entrepreneur
+- 😱 My worst nightmare: Not being able to give my best in this life and self-constructing a comfortable prison for my potential
 - 🫶 courage, time and love
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/oscararroyovega/)
 
