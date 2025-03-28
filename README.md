@@ -1,4 +1,4 @@
-- 👋 ME: @OscarArroyoVega
+- 👋 ME: @Oscar A. Vega
 - 👀 Interested in: Lifestyles emerging when LLM applications met phisical realities (LLMs + Real World = 🤔 )
 - 🌱 Background in: sustainable large scale projects from draft to real project (CostaViva smart_town, Nivalis solar_smart_city)
 - 🧐 Always learning, always hungry... now figuring out how to extract features using LLMS + Location + Timestamps to reveal underling territorial dynamics
