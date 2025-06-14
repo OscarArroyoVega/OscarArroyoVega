@@ -8,6 +8,7 @@
 - 🎇 collaborative entrepreneur
 - 😱 My worst nightmare: Not being able to give my best in this life and self-constructing a comfortable prison for my personal potential
 - 🫶 courage, time and love, courage, time and love, courage time and love...
+- 🚧 building at [dialogoo](https://github.com/dialogoo)
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/oscararroyovega/)
 
 <!---
