@@ -1,6 +1,6 @@
 - 👋 ME: @Oscar A. Vega
 - 👀 Interested in: Lifestyles emerging when LLM applications met phisical realities (LLMs + Real World = 🤔 )
-- 🌱 Background in: sustainable large scale projects from draft to real project (CostaViva smart_town, Nivalis solar_smart_city)
+- 🌱 Background in: sustainable large scale projects from draft to real project (CostaViva smart_town, Nivalis solar_city)
 - 🧐 Always learning, always hungry... now figuring out how to extract features using LLMS + Location + Timestamps to reveal underling territorial dynamics
 - 🪐 When I find something about Graphs, Timeseries or Geodata, my time-space obsesion push me to read it, it is a kind of gravity force
 - 👽 Natural System Designer; arrows, squares, cercles, boxes, tags, relations, questions, and more arrows! 
