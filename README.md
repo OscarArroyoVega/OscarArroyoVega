@@ -19,6 +19,6 @@
 
 ---
 
-🚧 Building at [dialogoo](https://github.com/dialogoo)
+🚧 Building at [AI Safe Earth ](https://github.com/ai-safe-earth)
 
 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/oscararroyovega/)
